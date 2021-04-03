@@ -12,3 +12,6 @@
 ### Divyansh Agarwal
 Github handle Name: [IITian20](https://github.com/IITian20)
 [<img src="https://image.flaticon.com/icons/png/128/2111/2111425.png" height="50">](https://github.com/IITian20)
+
+### Yash Hirani
+<a href="https://www.instagram.com/hirani_yash/"><img src="https://i.imgur.com/Z1WH7iP.png"></img></a>
