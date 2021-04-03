@@ -35,3 +35,6 @@ Github handle Name: [IITian20](https://github.com/IITian20)
 
 ### Sweety Gupta
 <a href="https://www.instagram.com/svveetyx"><img src="instalogo.png" alt="instagram link" width="50px" height="50px"></a>
+
+### shreyansh jain
+<a href="https://twitter.com/elonmusk"><img src="twitter-logo-4.png" alt="twitter link" width="50px" height="50px"></a>
