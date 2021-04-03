@@ -5,8 +5,6 @@
 ### Vaishnavi Gupta
 <a href="https://www.facebook.com/people/Vaishnavi-Gupta/100023693208764/"><img src="https://image.flaticon.com/icons/png/128/1384/1384053.png" width="50px"></img></a>
 
-<<<<<<< Updated upstream
-=======
 ### Ishu Gupta
 <a href="https://www.facebook.com/profile.php?id=100055990445574"><img src="icons8-facebook-64.png"></img></a>
 
@@ -15,6 +13,5 @@
 Github handle Name: [IITian20](https://github.com/IITian20)
 [<img src="https://image.flaticon.com/icons/png/128/2111/2111425.png" height="50">](https://github.com/IITian20)
 
->>>>>>> Stashed changes
 ### Yash Hirani
 <a href="https://www.instagram.com/hirani_yash/"><img src="https://i.imgur.com/Z1WH7iP.png"></img></a>
