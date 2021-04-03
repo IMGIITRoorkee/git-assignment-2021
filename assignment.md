@@ -4,3 +4,6 @@
 
 ### Vaishnavi Gupta
 <a href="https://www.facebook.com/people/Vaishnavi-Gupta/100023693208764/"><img src="https://image.flaticon.com/icons/png/128/1384/1384053.png" width="50px"></img></a>
+
+### Yash Hirani
+<a href="https://www.instagram.com/hirani_yash/"><img src="https://i.imgur.com/Z1WH7iP.png"></img></a>
